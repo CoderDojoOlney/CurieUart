@@ -11,6 +11,11 @@ CurieUart	KEYWORD1	CurieUart
 #######################################
 # Methods and Functions (KEYWORD2)
 #######################################
+begin    	KEYWORD2	begin
+central    	KEYWORD2	central
+sendString 	KEYWORD2	sendString
+hasString 	KEYWORD2	hasString
+getString 	KEYWORD2	getString
 
 #######################################
 # Constants (LITERAL1)
