@@ -1,3 +1,15 @@
+/*****************************************************************************/
+// Simple UART driver for the Curie BLE on the Arduino 101
+// Author: Anthony Abbot
+// Date: 30 Jan 2016
+// 
+// This code has been developed for use by the Olney Coder Dojo club
+//
+// Class to better encapsulate the BLE UART protocol for receiving commands
+// and sending back data
+//
+/*****************************************************************************/
+
 #include "CurieUart.h"
 CurieUart::CurieUart(const char* name)
   : ble101(),
